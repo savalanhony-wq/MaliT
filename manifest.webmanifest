@@ -1,0 +1,13 @@
+{
+  "name": "تراز (دخل و خرج + تنخواه)",
+  "short_name": "تراز",
+  "lang": "fa","dir": "rtl",
+  "start_url": "./index.html","scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5fa","theme_color": "#16407f",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
